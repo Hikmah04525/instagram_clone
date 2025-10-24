@@ -51,4 +51,4 @@ Installation
 
 Clone the repository and install dependencies:
 
-git clone 
+git clone https://github.com/Hikmah04525/instagram_clone.git
